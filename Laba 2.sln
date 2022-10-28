@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Address", "Address\Address.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Converter", "Converter\Converter.csproj", "{E323C47F-44FC-4D8C-9E38-2503CA09F51F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employee", "Employee\Employee.csproj", "{E37ECCC6-127E-4364-A4FC-A5734D13F9A2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{E323C47F-44FC-4D8C-9E38-2503CA09F51F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E323C47F-44FC-4D8C-9E38-2503CA09F51F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E323C47F-44FC-4D8C-9E38-2503CA09F51F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E37ECCC6-127E-4364-A4FC-A5734D13F9A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E37ECCC6-127E-4364-A4FC-A5734D13F9A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E37ECCC6-127E-4364-A4FC-A5734D13F9A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E37ECCC6-127E-4364-A4FC-A5734D13F9A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
